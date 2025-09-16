@@ -1,0 +1,1 @@
+# generalized-brocard-ramanujan-magnitude-curve
