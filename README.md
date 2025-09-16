@@ -18,13 +18,13 @@ The code includes:
 - Clear visual distinction between solution types: Brocard-Ramanujan (a=0), consecutive pairs (a=1), and the new discovery (a=4).
 - Visualization of both the smooth theoretical approximation ($k \approx \sqrt{(n+a)!+1}$) and the discrete exact integer magnitude model ($k = \sqrt{\lfloor n+a \rfloor! + 1}$).
 
-##Repository Contents
-*`generate_magnitude_curve.py` : Core Python script for generating the plot.
-*`magnitude_curve_refined.pdf` : The plot output comparing the known solutions against the theoretical curves.
-*`README.md` : This documentation file.
-*`requirements.txt` : List of Python dependencies required to run the code.
+## Repository Contents
+- `generate_magnitude_curve.py` : Core Python script for generating the plot.
+- `magnitude_curve_refined.pdf` : The plot output comparing the known solutions against the theoretical curves.
+- `README.md` : This documentation file.
+- `requirements.txt` : List of Python dependencies required to run the code.
 
-##Requirements
+## Requirements
 - Python 3.8+
 - numpy, matplotlib
 
